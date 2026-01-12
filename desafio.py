@@ -378,7 +378,7 @@ def criar_cliente(clientes):
     )
 
     clientes.append(cliente)
-
+    
     print("\n=== Cliente criado com sucesso! ===")
 
 
